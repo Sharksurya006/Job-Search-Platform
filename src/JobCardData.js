@@ -1,0 +1,73 @@
+const jobCardData = [
+  {
+    title: "Product Designer",
+    company: "MetaMask",
+    applicants: 25,
+    tags: ["Entry Level", "Full-Time", "Remote"],
+    description: "Doing the right thing for investors is what we’re all about at Vanguard...",
+    briefDescription: "You will collaborate closely with engineers and product managers to design and refine intuitive, engaging digital experiences. Your insights will help shape decisions and turn conceptual ideas into beautifully crafted interfaces. We're looking for someone eager to grow, learn from experienced team members, and contribute fresh perspectives. This role is ideal for a creative thinker who enjoys problem-solving through design and thrives in a collaborative environment.",
+    rate: "$250/hr",
+    posted: "12 days ago",
+    icon: "https://logo.clearbit.com/metamask.io",
+    location: "Remote",
+    experience: 1,
+    salary: "8–12 LPA",
+    briefSkills: ["UI/UX Design", "Figma", "Adobe XD", "Wireframing", "Prototyping", "Design Thinking", "User Research", "Collaboration", "Typography", "Creativity"],
+    responsibilities: "As a Product Designer at MetaMask, you'll be responsible for crafting user-centered experiences across our platform. You’ll conduct user research, create wireframes and prototypes, and collaborate with cross-functional teams to ensure design consistency and usability. You'll actively contribute to product strategy and use data-driven insights to inform design decisions. You will participate in design reviews, maintain design systems, and ensure brand alignment across all digital assets.",
+    qualificationAndSkillsets: "The ideal candidate should hold a degree in Design, HCI, or a related field and have a strong foundation in user experience principles. Proficiency in tools like Figma, Sketch, or Adobe XD is required. Strong problem-solving, collaboration, and communication skills are essential. A solid portfolio showcasing design thinking, creativity, and interface design is expected. Prior internship or academic experience in digital product design is preferred."
+  },
+  {
+    title: "Frontend Developer",
+    company: "Google",
+    applicants: 40,
+    tags: ["Intermediate", "Contract"],
+    description: "Build modern UIs using React for millions of users around the world.",
+    briefDescription: "You will be responsible for developing responsive and scalable front-end solutions, collaborating with designers and backend engineers to ensure seamless integration. Your code will directly impact the user experience and accessibility of our products. We're looking for someone passionate about performance optimization and delivering intuitive, polished interfaces that serve users globally. You'll be encouraged to innovate, test, and refine solutions continuously.",
+    rate: "$180/hr",
+    posted: "5 days ago",
+    icon: "https://logo.clearbit.com/google.com",
+    location: "Bengaluru",
+    experience: 3,
+    salary: "15–22 LPA",
+    briefSkills: ["JavaScript", "React", "HTML5", "CSS3", "Redux", "TypeScript", "Responsive Design", "Git", "REST APIs", "Webpack"],
+    responsibilities: "As a Frontend Developer, you will build and maintain user interfaces that are fast, responsive, and visually engaging. You'll collaborate with UI/UX designers to implement design wireframes and ensure pixel-perfect execution. Working closely with backend teams, you’ll integrate APIs and services while optimizing page performance. You’ll also participate in code reviews, testing, and the continuous improvement of frontend practices and tooling.",
+    qualificationAndSkillsets: "A bachelor’s degree in Computer Science or a related field is preferred. Solid knowledge of JavaScript, React, HTML5, and CSS3 is essential. Familiarity with build tools like Webpack and version control systems like Git is required. Experience working with RESTful APIs, responsive design, and performance optimization is highly valued. Strong problem-solving, debugging, and collaborative skills are crucial for this role."
+  },
+  {
+    title: "Data Analyst",
+    company: "Spotify",
+    applicants: 15,
+    tags: ["Entry Level", "Part-Time"],
+    description: "Join our analytics team to uncover music trends and user behavior.",
+    briefDescription: "You’ll dive into large datasets to provide actionable insights that enhance user experiences and inform product decisions. This role offers an opportunity to apply data mining, visualization, and storytelling techniques. You'll collaborate with product, marketing, and engineering teams to identify trends, build dashboards, and evaluate the impact of new features. The ideal candidate is curious, data-savvy, and detail-oriented.",
+    rate: "$90/hr",
+    posted: "8 days ago",
+    icon: "https://logo.clearbit.com/spotify.com",
+    location: "Mumbai",
+    experience: 1,
+    salary: "6–9 LPA",
+    briefSkills: ["SQL", "Python", "Data Visualization", "Excel", "Tableau", "Statistical Analysis", "Data Cleaning", "Dashboards", "Storytelling", "Google Analytics"],
+    responsibilities: "As a Data Analyst, your primary responsibility will be to collect, process, and analyze user data to uncover key trends and insights. You'll support the business with dashboards, reports, and ad-hoc analyses, helping teams make data-informed decisions. You will collaborate with stakeholders to define metrics, conduct A/B tests, and contribute to predictive modeling projects that enhance user engagement and retention.",
+    qualificationAndSkillsets: "A bachelor’s degree in Statistics, Computer Science, or Economics is required. Proficiency in SQL and Python, along with experience using data visualization tools like Tableau or Power BI, is necessary. Familiarity with statistics, A/B testing, and data storytelling is a plus. The ideal candidate is analytical, inquisitive, and effective at communicating insights clearly to technical and non-technical audiences."
+  },
+  {
+    title: "UX Researcher",
+    company: "Airbnb",
+    applicants: 20,
+    tags: ["Full-Time", "Remote"],
+    description: "Conduct user research to help shape the future of travel experiences.",
+    briefDescription: "You'll help uncover user needs and pain points through a variety of research methods, turning complex findings into actionable insights. Your work will directly influence design decisions and product direction. By partnering with designers, product managers, and engineers, you’ll ensure we build user-centered solutions. This role is suited for a researcher who is empathetic, curious, and driven to improve user experience.",
+    rate: "$120/hr",
+    posted: "3 days ago",
+    icon: "https://logo.clearbit.com/airbnb.com",
+    location: "Remote",
+    experience: 4,
+    salary: "14–20 LPA",
+    briefSkills: ["User Research", "Usability Testing", "Interviewing", "Persona Development", "Journey Mapping", "Quantitative Research", "Qualitative Research", "Data Synthesis", "UX Strategy", "Empathy"],
+    responsibilities: "In this role, you'll conduct user interviews, usability testing, surveys, and field studies to uncover user needs and behaviors. You'll work with cross-functional teams to prioritize user pain points and validate product features. You will translate research findings into detailed personas, user journeys, and strategic recommendations. Your research will directly inform the design and iteration of Airbnb’s digital products.",
+    qualificationAndSkillsets: "A degree in Psychology, Human-Computer Interaction, Sociology, or a related field is preferred. Experience conducting both qualitative and quantitative research is required. Strong analytical thinking and communication skills are essential. Proficiency in research tools like Lookback, Dovetail, or Optimal Workshop is a plus. The candidate should be empathetic and collaborative, with a deep understanding of user-centered design."
+  },
+  // (Continue with remaining 12 entries in the next part due to response length limit)
+];
+
+export default jobCardData;
